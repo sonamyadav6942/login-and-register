@@ -1,0 +1,10 @@
+.homepage .button {
+    background: #1877f2; 
+    border: 1px solid blue;
+    color: white; 
+    font-size: 20px; 
+    padding: 8px;
+    margin: 8px 0; 
+    outline: none; 
+    cursor: pointer;
+}
